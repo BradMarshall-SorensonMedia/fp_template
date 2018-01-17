@@ -1,7 +1,8 @@
-# Lookit me!
+# Issue {{.Name}}
 
-Stuff goes here
+## Definition of Done Checklist
+[ ] Acceptance Criteria Met
+[ ] Demonstrated to another team member
+[ ] Passing Bamboo Build
 
 #MORE STUFF!
-
-Even More Stuff Goes Here
