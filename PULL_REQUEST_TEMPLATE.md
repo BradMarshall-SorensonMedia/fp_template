@@ -1,7 +1,7 @@
-# (Insert URL here)
+# (Insert Branch Name)
 
 ## Description
-[JIRA Link] (insert-jira-link-here)
+[JIRA Link](insert-jira-link-here)
 (Insert Issue description, along with important acceptance criteria)
 
 ## Definition of Done
