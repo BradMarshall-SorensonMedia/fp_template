@@ -1,8 +1,8 @@
 # Issue {{.Name}}
 
 ## Definition of Done Checklist
-[ ] Acceptance Criteria Met
-[ ] Demonstrated to another team member
-[ ] Passing Bamboo Build
+- [ ] Acceptance Criteria Met
+- [ ] Demonstrated to another team member
+- [ ] Passing Bamboo Build
 
 #MORE STUFF!
