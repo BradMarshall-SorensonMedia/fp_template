@@ -1,8 +1,19 @@
-# Fixed # (issue)
+# (Issue Name)
 
-## Definition of Done Checklist
+## Description
+
+## Definition of Done
+[Bamboo Link]()
+
+### Developer Tasks
+
 - [ ] Acceptance Criteria Met
-- [ ] Demonstrated to another team member
+- [ ] Local Unit Tests passing
 - [ ] Passing Bamboo Build
+- [ ] Demonstrated to another team member
+- [ ] Deployed and Tested on Development Environment
 
-#MORE STUFF!
+### QA Tasks
+
+- [ ] Passing ETETE
+
