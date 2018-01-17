@@ -1,4 +1,4 @@
-# Issue {{.Name}}
+# Fixed # (issue)
 
 ## Definition of Done Checklist
 - [ ] Acceptance Criteria Met
